@@ -9,7 +9,7 @@ declare(strict_types=1);
  * @license  https://github.com/marxphp/max/blob/master/LICENSE
  */
 
-namespace Max\Session\Exceptions;
+namespace Max\Session\Exception;
 
 use RuntimeException;
 
